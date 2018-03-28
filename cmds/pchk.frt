@@ -5,3 +5,4 @@
 	 else 0 then else 1 then 
 	 swap drop
 ;
+(primary number - 1 , not primary - 0)
